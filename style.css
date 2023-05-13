@@ -1,0 +1,17 @@
+*{
+    background-color: burlywood;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+}
+.devby{
+    border: 2px solid black;
+    height: 30px;
+    width: 500px;
+    margin-left: 720px;
+}
